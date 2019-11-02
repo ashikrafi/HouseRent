@@ -1,0 +1,61 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5 (venv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\User\PycharmProjects\Ratina\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Ratina/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Ratina/venv/Lib/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/1484886739" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (HouseRent)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="E:\Kaggle\Competition\HouseRent\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python35/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python35/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python35" type="simple" />
+            <root url="file://E:/Kaggle/Competition/HouseRent/venv" type="simple" />
+            <root url="file://E:/Kaggle/Competition/HouseRent/venv/Lib/site-packages" type="simple" />
+            <root url="jar://E:/Kaggle/Competition/HouseRent/venv/Lib/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://E:/Kaggle/Competition/HouseRent/venv/Lib/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1020243021" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/Kaggle/Competition/HouseRent" />
+    </jdk>
+  </component>
+</application>
